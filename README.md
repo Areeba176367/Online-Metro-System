@@ -69,4 +69,4 @@ Online-Metro-System-GitHub/
 This repository contains the source code and database required to run the project locally or deploy it to a PHP/MySQL-compatible hosting service.
 
 ## Author
-Final Year Project - Online Metro System
+Areeba Naz
